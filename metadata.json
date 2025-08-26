@@ -1,0 +1,5 @@
+{
+  "name": "Mog Machine App",
+  "description": "An application that transforms portraits into anthropomorphic frogs in a charcoal drawing style using the Gemini API.",
+  "requestFramePermissions": []
+}
